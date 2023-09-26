@@ -30,5 +30,5 @@ management:
     web:
       exposure:
         include: "*"
-# api:
-#   customer: http://PROFILE-SERVICE/
+ api:
+   user: http://USER-SERVICE/user
