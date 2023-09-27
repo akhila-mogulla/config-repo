@@ -19,7 +19,7 @@ spring:
           predicates:
             - Path= /experience/**
 server:
-  port: 9191
+  port: 9292
 management:
   endpoints:
     web:
