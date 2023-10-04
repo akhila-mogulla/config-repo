@@ -32,4 +32,4 @@ management:
         include: "*"
 
  api:
-   profile: http://PROFILE-SERVICE/profile
+   profile: http://PROFILE-SERVICE/api/profile
