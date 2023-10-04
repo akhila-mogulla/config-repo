@@ -32,4 +32,4 @@ management:
       exposure:
         include: "*"
 api:
-  user: http://USER-SERVICE/user
+  user: http://USER-SERVICE/api/user
