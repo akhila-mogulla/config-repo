@@ -30,6 +30,5 @@ management:
     web:
       exposure:
         include: "*"
-
- api:
-   profile: http://PROFILE-SERVICE/api/profile
+api:
+  profile: http://PROFILE-SERVICE/api/profile
