@@ -32,4 +32,7 @@ management:
       exposure:
         include: "*"
 api:
-  user: http://AUTH-SERVICE/api/authenticate
+  user: http://USER-SERVICE/api/user
+  experience: http://EXPERIENCE-SERVICE/api/experience
+  education: http://EDUCATION-SERVICE/api/education
+  auth: http://AUTH-SERVICE/api/authenticate
